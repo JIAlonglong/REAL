@@ -1,0 +1,17 @@
+isaacgym*
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.pyc
+*.egg-info/
+*.egg
+dist/
+build/
+logs/
+videos/
+*.pt
+*.pth
+*.png
+*.jpg
+*.mp4
+.DS_Store

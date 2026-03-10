@@ -1,0 +1,6 @@
+pymeshlab
+pydelatin
+opencv-python
+tqdm
+wandb
+flask
