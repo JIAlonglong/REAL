@@ -275,8 +275,10 @@ If you find this work useful, please consider citing:
 
 ```bibtex
 @article{real2026,
-  title   = {REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning
-             and Physics-Guided Filtering},
+  title   = {REAL: Robust Extreme Agility via Spatio-Temporal
+             Policy Learning and Physics-Guided Filtering},
+  author  = {Jialong Liu, Dehan Shen, Yanbo Wen,
+             Zeyu Jiang and Changhao Chen},
   year    = {2026}
 }
 ```
