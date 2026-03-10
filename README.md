@@ -267,15 +267,6 @@ We plan to release the full codebase upon paper acceptance. The following items 
 - [ ] Uncertainty-aware velocity estimator (1D ResNet)
 - [ ] Pre-trained model checkpoints (teacher & student)
 
-**🤖 Deployment**
-- [ ] ONNX export and deployment pipeline for Unitree Go2
-- [ ] Real-world deployment guide and hardware setup instructions
-- [ ] Custom C++ control framework
-
-**📊 Evaluation & Media**
-- [ ] Evaluation scripts and baseline comparison tools
-- [ ] Demo videos
-
 ---
 
 ## 🔖 Citation
