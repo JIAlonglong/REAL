@@ -387,6 +387,8 @@ python tests/test_modules.py -k jit       # JIT export only
 @article{real2026,
   title   = {REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning
              and Physics-Guided Filtering},
+  author  = {Jialong Liu, Dehan Shen, Yanbo Wen,
+             Zeyu Jiang and Changhao Chen},
   year    = {2026}
 }
 ```
