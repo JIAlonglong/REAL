@@ -38,7 +38,7 @@ class LeggedRobotCfg(BaseConfig):
         debug_viz = True
 
     class env:
-        num_envs = 2048
+        num_envs = 4096
         scan_history_len = 1
         n_scan = 132 * scan_history_len
         n_priv = 3 + 3 + 3

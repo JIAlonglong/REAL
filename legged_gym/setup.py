@@ -8,7 +8,6 @@ setup(
     packages=find_packages(),
     description='Isaac Gym environments for REAL (Robust Extreme Agility Learning)',
     install_requires=[
-        'isaacgym',
         'real-rsl-rl',
         'matplotlib',
     ],
