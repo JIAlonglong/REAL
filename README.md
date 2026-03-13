@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="images/background.jpg" width="100%"/>
-
-<br/>
-
 # 🤖 REAL: Robust Extreme Agility Learning
 
 ### Robust Extreme Agility via Spatio-Temporal Policy Learning and Physics-Guided Filtering
@@ -11,6 +5,12 @@
 [![Paper](https://img.shields.io/badge/📄_Paper-Coming%20Soon-b31b1b.svg)]()
 [![License](https://img.shields.io/badge/📝_License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/🐕_Platform-Unitree%20Go2-blue.svg)](https://www.unitree.com/go2)
+
+<div align="center">
+
+<img src="images/background.jpg" width="100%"/>
+
+<br/>
 
 <br/>
 
