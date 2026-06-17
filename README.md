@@ -8,7 +8,10 @@
 
 ### Robust Extreme Agility via Spatio-Temporal Policy Learning and Physics-Guided Filtering
 
-[![Paper](https://img.shields.io/badge/📄_Paper-Coming%20Soon-b31b1b.svg)]()
+**🏆 Accepted at IROS 2026**
+
+[![Paper](https://img.shields.io/badge/📄_Paper-arXiv%3A2603.17653-b31b1b.svg)](https://arxiv.org/abs/2603.17653)
+[![Website](https://img.shields.io/badge/🌐_Website-REAL-blue.svg)](https://jialonglong.github.io/REAL_wb/)
 [![License](https://img.shields.io/badge/📝_License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/🐕_Platform-Unitree%20Go2-blue.svg)](https://www.unitree.com/go2)
 
@@ -384,12 +387,14 @@ python tests/test_modules.py -k jit       # JIT export only
 ## 🔖 Citation
 
 ```bibtex
-@article{real2026,
-  title   = {REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning
-             and Physics-Guided Filtering},
-  author  = {Jialong Liu, Dehan Shen, Yanbo Wen,
-             Zeyu Jiang and Changhao Chen},
-  year    = {2026}
+@inproceedings{real2026,
+  title     = {REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning
+               and Physics-Guided Filtering},
+  author    = {Jialong Liu and Dehan Shen and Yanbo Wen
+               and Zeyu Jiang and Changhao Chen},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2603.17653}
 }
 ```
 
