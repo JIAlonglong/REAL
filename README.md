@@ -1,9 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="images/background.jpg" width="100%"/>
 
-<br/>
-
+<br/> -->
 # 🤖 REAL: Robust Extreme Agility Learning
 
 ### Robust Extreme Agility via Spatio-Temporal Policy Learning and Physics-Guided Filtering
