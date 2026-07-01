@@ -13,8 +13,6 @@
 
 <br/>
 
-> ⚠️ **Note:** The code is still being organized and cleaned up. Please use with caution. We will release a polished version soon.
-
 <br/>
 
 <img src="images/fig1_teaser.png" width="90%"/>
